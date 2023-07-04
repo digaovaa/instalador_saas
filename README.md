@@ -7,7 +7,7 @@ sudo apt -y update && apt -y upgrade
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/digaovaa/install_multi100.git install_multi100 && sudo chmod -R 777 install_multi100  && cd install_multi100  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/digaovaa/instalador_saas.git install_multi100 && sudo chmod -R 777 install_multi100  && cd install_multi100  && sudo ./install_primaria
 ```
 
 ## Requisitos
